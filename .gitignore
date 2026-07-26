@@ -1,0 +1,13 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Data
+data/raw/*
+data/processed/*
+!data/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
